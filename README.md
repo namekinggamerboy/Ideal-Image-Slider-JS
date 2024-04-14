@@ -63,8 +63,8 @@ before the `</body>` tag in your HTML. Note you can optionally include a theme C
 <html>
 <head>
 	...
-	<link rel="stylesheet" href="/path/to/ideal-image-slider.css">
-	<link rel="stylesheet" href="/path/to/themes/default/default.css">
+	<link rel="stylesheet" href="https://namekinggamerboy.github.io/Ideal-Image-Slider-JS/ideal-image-slider.css">
+	<link rel="stylesheet" href="https://namekinggamerboy.github.io/Ideal-Image-Slider-JS/themes/default/default.css">
 	...
 </head>
 <body>
